@@ -1,0 +1,7 @@
+things i changed to make the game harder:
+
+some enemies run faster than the player.
+all enemies one hit kills the player.
+batteries lasts less time than normal.
+
+more coming soon...

@@ -1,0 +1,29 @@
+this cheat includes:
+super speed
+super jump
+inf batteries
+freecam
+show paths
+freeze game
+enemies can't deal damage
+disable/enable FOG
+disable/enable DECALS
+
+how to use:
+F1 = FREECAM
+F2 = DEFAULT CAM
+F3 = FREEZE GAME/UNFREEZE GAME
+F4 = DISABLE/ENABLE PATHS
+F5 = DISABLE/ENABLE FOG
+F6 = DISABLE/ENABLE DECALS
+
+cheats that will get added in future versions:
+enemy speed reduced
+enemy speed greatly reduced
+enemy speed maximun reduced
+
+cheats that will not get added:
+enemy swapper
+
+cheats that might get added:
+slow walk/run

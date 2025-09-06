@@ -1,0 +1,35 @@
+how to use?
+
+how to use the .ini file cheats:
+
+step 1.
+find the cheat you wanna use
+
+step 2.
+copy the .ini file inside it
+
+step 3.
+find your outlast folder and then find OLGame inside that folder there should be a folder called config.
+
+step 4.
+click on it
+
+step 5.
+paste the .ini file into that folder.
+
+step 6.
+done.
+
+how to use the OLGame.upk file cheats
+
+step 1.
+copy the OLGame.upk file and then go into your outlast folder
+
+step 2.
+find the OLGame folder and then find CookedPCConsole (for outlast whistleblower find the folder called CookedPCConsoleDLC)
+
+step 3.
+paste the OLGame.upk file into the folder
+
+step 4.
+done.

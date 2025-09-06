@@ -1,0 +1,1 @@
+the speed is between 50 - 100 most of the enemies was reduced.

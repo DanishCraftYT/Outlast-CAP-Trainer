@@ -1,0 +1,20 @@
+step 1.
+find the folder you're searching for and then click on it
+
+step 2.
+copy the OLGame.upk file (btw i had to use a modded version for the upk editor to work.)
+
+step 3.
+find the outlast folder
+
+step 4.
+find OLGame and click on it. then find CookedPCConsole or CookedPCConsoleDLC and click on it
+
+step 5.
+paste the OLGame.upk file into CookedPCConsole(DLC)
+
+step 6.
+say yes to replacing the current file inside the folder called "OLGame.upk"
+
+step 7.
+done.

@@ -1,0 +1,12 @@
+this shows how much the difference there is between the different speeds
+
+normal = 50 - 700 speed
+
+reduced = 50 - 400 speed
+
+greatly reduced = 50 - 200 speed
+
+maximun reduced = 50 - 100 speed
+
+extra note:
+idk if you need this info but guess you have it now.

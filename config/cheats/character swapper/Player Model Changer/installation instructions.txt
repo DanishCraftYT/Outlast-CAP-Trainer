@@ -1,0 +1,61 @@
+setup:
+
+step 1.
+open the Player Model Changer (by superboo07).rar file. copy the
+files and paste then into the "Player Model Changer" directory.
+
+step 2.
+download the Player Models from the "PLAYER MODELS DONWLOAD LINK.txt" file.
+
+step 3.
+put the PM'S folder into the "Player Model Changer" directory.
+
+installation:
+
+step 1.
+put the Level_Launcher.Bat file into the outlast directory.
+(where the "OutlastLaucher.exe" is).
+
+step 2.
+open the level launcher.
+
+step 3.
+it should generate the folders needed to change the player model.
+then put the "OLCustomPlayerModelSDK.u" file into the CookedPCConsole folder.
+( OLGame > CookedPCConsole ).
+
+step 4.
+copy the PM folders and paste them into the
+PlayerModels folder (inside the outlast directory).
+
+step 5.
+navigate to the PlayerModels folder then navigate to the Configs folder and
+then navigate to the PlayerModelGame folder and open the DefaultGame.ini file.
+( PlayerModels > Configs > PlayerModelGame > DefaultGame.ini ).
+
+step 6.
+find "[Engine.GameInfo]" and replace the text under it with:
+DefaultGame=OLCustomPlayerModelSDK.OLCustomGame
+DefaultServerGame=OLCustomPlayerModelSDK.OLCustomGame
+PlayerControllerClassName=OLGame.OLPlayerController
+DefaultGameType=OLCustomPlayerModelSDK.OLCustomGame
+
+step 7.
+go back to the PlayerModels folder and copy the name of the models folder
+you want to play as.
+
+step 8.
+go back to the level launcher and type:
+"mount"
+then paste the models name
+it should look like this:
+mount (model name)
+
+example:
+mount EddiePM
+
+step 9.
+then press enter and it should mount the playermodel.
+
+step 10.
+done

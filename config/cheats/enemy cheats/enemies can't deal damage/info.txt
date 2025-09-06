@@ -1,0 +1,1 @@
+makes enemies not deal any damage.

@@ -1,0 +1,35 @@
+SECTION 1 - OVERVIEW
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+SECTION 2 - v0.8
+
+NEWS:
+ADDED TUTORIALS AND QUESTIONS FOLDER
+ADDED NEW CHEATS
+ENEMY SWAPPING AVAILABLE
+ADDED NEW BACKUPS
+ADDED A README FILE
+
+CHEATS ADDED:
+FOG and DECALS cheats added
+show PATHS cheat added
+unlimited battery life cheat added
+ultra nightmare mode added
+freecam + freeze game now working
+super jump + super speed now working
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+SECTION 3 - v1.0
+
+NEWS:
+new cheats
+changed "enemy swapper" to "character swapper"
+changed "ultra insane mode" to "impossible mode"
+made ultra nightmare mode easier
+updated "enemy swapper questions you might have".
+added enemy cheats folder
+added player cheats folder
+added misc folder
+
+CHEATS ADDED:
+player model changer (by superboo07)

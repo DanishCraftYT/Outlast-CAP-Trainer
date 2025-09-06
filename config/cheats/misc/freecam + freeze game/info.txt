@@ -1,0 +1,2 @@
+freeze game + freecam
+if you use freecam and then freeze the game. you can still move around in freecam.

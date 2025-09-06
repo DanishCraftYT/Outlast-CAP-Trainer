@@ -1,0 +1,10 @@
+so i have some ideas for the ultra insane mode.
+
+ideas:
+all enemies run faster than the player.
+enemies can attack you from a longer distance.
+player jumps less high.
+all enemies one hit kill the player.
+batteries lasts less than 50% of what they normally do.
+
+more ideas will be added soon...

@@ -1,0 +1,12 @@
+this disables all cheats.
+
+cheats it disables:
+super speed
+super jump
+inf batteries
+freecam
+show paths
+freeze game
+enemies can't deal damage
+disable/enable FOG
+disable/enable DECALS

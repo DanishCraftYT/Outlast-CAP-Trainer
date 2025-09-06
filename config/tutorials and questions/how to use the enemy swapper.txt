@@ -1,0 +1,17 @@
+step 1.
+find the cheat you want to use and copy it.
+
+step 2.
+find the outlast folder.
+
+step 3.
+find the OLGame folder and click on it. then find CookedPCConsole or CookedPCConsoleDLC and click on it.
+
+step 4.
+paste the OLGame.upk file into CookedPCConsole and CookedPCConsoleDLC.
+
+step 5.
+say yes to replacing the current file inside the folder called "OLGame.upk"
+
+step 6.
+done.
